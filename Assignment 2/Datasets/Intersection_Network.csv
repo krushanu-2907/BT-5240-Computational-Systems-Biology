@@ -1,0 +1,18 @@
+EdgeBetweenness,interaction,name,selected,shared interaction,shared name,Weights_diff,Weights_Hosp,Weights_Metro
+22.977201,interacts with,Pseudomonas putida (interacts with) Stenotrophomonas maltophilia,FALSE,interacts with,Pseudomonas putida (interacts with) Stenotrophomonas maltophilia,-0.009,0.265,0.274
+28.9607233,interacts with,Rothia dentocariosa (interacts with) Rothia mucilaginosa,FALSE,interacts with,Rothia dentocariosa (interacts with) Rothia mucilaginosa,-0.01,0.272,0.282
+15.37546567,interacts with,Streptococcus parasanguinis (interacts with) Streptococcus salivarius,FALSE,interacts with,Streptococcus parasanguinis (interacts with) Streptococcus salivarius,0.016,0.252,0.236
+7.138323138,interacts with,Corynebacterium pseudogenitalium (interacts with) Corynebacterium tuberculostearicum,FALSE,interacts with,Corynebacterium pseudogenitalium (interacts with) Corynebacterium tuberculostearicum,-0.1,0.168,0.268
+150.9928938,interacts with,Methylobacterium radiotolerans (interacts with) Sphingomonas echinoides,FALSE,interacts with,Methylobacterium radiotolerans (interacts with) Sphingomonas echinoides,0.02,0.288,0.268
+22.54656751,interacts with,Escherichia coli (interacts with) Klebsiella pneumoniae,FALSE,interacts with,Escherichia coli (interacts with) Klebsiella pneumoniae,0,0.277,0.277
+43.56773998,interacts with,Enterobacter cloacae (interacts with) Klebsiella pneumoniae,FALSE,interacts with,Enterobacter cloacae (interacts with) Klebsiella pneumoniae,0.05,0.277,0.227
+48.37773136,interacts with,Enhydrobacter aerosaccus (interacts with) Rothia mucilaginosa,FALSE,interacts with,Enhydrobacter aerosaccus (interacts with) Rothia mucilaginosa,-0.003,0.291,0.294
+18.11160173,interacts with,Enhydrobacter aerosaccus (interacts with) Cutibacterium granulosum,FALSE,interacts with,Enhydrobacter aerosaccus (interacts with) Cutibacterium granulosum,-0.014,0.281,0.295
+57.27813884,interacts with,Corynebacterium matruchotii (interacts with) Enhydrobacter aerosaccus,FALSE,interacts with,Corynebacterium matruchotii (interacts with) Enhydrobacter aerosaccus,-0.022,0.276,0.298
+22.74216156,interacts with,Actinomyces viscosus (interacts with) Corynebacterium matruchotii,FALSE,interacts with,Actinomyces viscosus (interacts with) Corynebacterium matruchotii,-0.029,0.257,0.286
+57.15532348,interacts with,Actinomyces oris (interacts with) Corynebacterium matruchotii,FALSE,interacts with,Actinomyces oris (interacts with) Corynebacterium matruchotii,-0.02,0.256,0.276
+20.29861029,interacts with,Actinomyces oris (interacts with) Actinomyces viscosus,FALSE,interacts with,Actinomyces oris (interacts with) Actinomyces viscosus,-0.049,0.228,0.277
+164,interacts with,Lautropia mirabilis (interacts with) Streptococcus sanguinis,FALSE,interacts with,Lautropia mirabilis (interacts with) Streptococcus sanguinis,-0.019,0.273,0.292
+23.90718419,interacts with,Rothia mucilaginosa (interacts with) Streptococcus salivarius,FALSE,interacts with,Rothia mucilaginosa (interacts with) Streptococcus salivarius,-0.004,0.267,0.271
+36.49927001,interacts with,Rothia mucilaginosa (interacts with) Streptococcus parasanguinis,FALSE,interacts with,Rothia mucilaginosa (interacts with) Streptococcus parasanguinis,-0.042,0.232,0.274
+26.03290834,interacts with,Brevibacterium casei (interacts with) Enhydrobacter aerosaccus,FALSE,interacts with,Brevibacterium casei (interacts with) Enhydrobacter aerosaccus,-0.022,0.258,0.28
